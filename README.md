@@ -5,3 +5,5 @@ A basic notes app stores your personal notes in a file in JSON format and perfro
 - Adding notes
 - Editing notes
 - Remove notes            
+
+All functions are performed on terminal.
