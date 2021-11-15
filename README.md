@@ -6,4 +6,8 @@ A basic notes app stores your personal notes in a file in JSON format and perfro
 - Editing notes
 - Remove notes            
 
-All functions are performed on terminal.
+All functions are performed on terminal. 
+
+Installation
+ > use npm install 
+
