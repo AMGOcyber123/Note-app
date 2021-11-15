@@ -8,8 +8,8 @@ A basic notes app stores your personal notes in a file in JSON format and perfro
 
 All functions are performed on terminal. 
 
-Installation
- Use
+# Installation
+## Use
  ```` npm install npm@latest -g ````
 
 
